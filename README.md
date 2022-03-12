@@ -9,4 +9,6 @@ Based on the data alanysis Louise's US campaign trends show kickstarter theater 
 - For GB musical, the ideal month to start the campaign should be in May or June and last about 30 days or more
 ---
 ![ParentCategoryOutcomesChart]
+---
+https://github.com/Ninax3/kickstarter-analysis/blob/main/Crowdfunding%20Analysis/OutcomeBasedonLaunchDateChart.png
 
